@@ -9,4 +9,4 @@ PPVC uses text documents to store the amount of views, if the IP has not already
 It can also be used across servers, as all it requires is the ability to create and edit files.
 
 ### How do I use it?
-To use PPVC, download the file 'linkcounter.php' or 'linkcounter.min.php' for reduced file size. Include these files in the page, and _ta-da_, you now have a working page counter!
+To use PPVC, download the file 'linkcounter.min.php'. Include these files in the page, and _ta-da_, you now have a working page counter!
