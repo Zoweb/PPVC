@@ -12,4 +12,4 @@ It can also be used across servers, as all it requires is the ability to create 
 To use PPVC, download the file 'linkcounter.php'. Include these files in the (`<?php include 'url/linkcounter.php'; ?>`) page, and _ta-da_, you now have a working page counter! **REMEMBER**, to do this, you must have file/folder creation permissions. You can edit your `php.ini` file to do this.
 
 ### Can I use it on another server from this one?
-Yes, you can! Just use the code `<?php include 'http://othersite.com/file/path/linkcounter.php'; ?>`, anywhere in your page. **REMEMBER**, to do this, you must have file/folder creation permissions.
+No, you can't. If PHP allowed including files on another server, however, you could. So sad :(
